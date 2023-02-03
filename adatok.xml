@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<szemelyek>
+    <szemely>
+		<adoazonositojel>778899112</adoazonositojel>
+		<teljesnev>Ügyvezető Mihály</teljesnev>
+		<azonosito>1</azonosito>
+		<egyebid>1</egyebid>
+		<belepes>2015.09.08</belepes>
+		<kilepes>2021.09.08</kilepes>
+		<emailcim>ugyvezeto.mihaly@gmail.com</emailcim>
+	</szemely>
+    <szemely>
+		<adoazonositojel>578699162</adoazonositojel>
+		<teljesnev>Titkár Béla</teljesnev>
+		<azonosito>2</azonosito>
+		<egyebid>2</egyebid>
+		<belepes>2016.03.08</belepes>
+		<kilepes>2022.06.08</kilepes>
+		<emailcim>titkar.bela@gmail.com</emailcim>
+	</szemely>
+    <szemely>
+		<adoazonositojel>273854118</adoazonositojel>
+		<teljesnev>Titkár Ferenc</teljesnev>
+		<azonosito>3</azonosito>
+		<egyebid>3</egyebid>
+		<belepes>2019.09.02</belepes>
+		<kilepes>2023.01.15</kilepes>
+		<emailcim>titkar.ferenc@gmail.com</emailcim>
+	</szemely>
+    <szemely>
+		<adoazonositojel>1488559162</adoazonositojel>
+		<teljesnev>Fejlesztő Gábor</teljesnev>
+		<azonosito>4</azonosito>
+		<egyebid>4</egyebid>
+		<belepes>2019.05.08</belepes>
+		<kilepes>2020.05.08</kilepes>
+		<emailcim>fejleszto.gabor@gmail.com</emailcim>
+	</szemely>
+    <szemely>
+		<adoazonositojel>113698312</adoazonositojel>
+		<teljesnev>Futár Géza</teljesnev>
+		<azonosito>5</azonosito>
+		<egyebid>5</egyebid>
+		<belepes>2015.01.01</belepes>
+		<kilepes>2016.06.02</kilepes>
+		<emailcim>futar.geza@gmail.com</emailcim>
+	</szemely>	
+	</szemelyek>
